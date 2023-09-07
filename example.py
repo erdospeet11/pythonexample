@@ -10,4 +10,10 @@ szia = 11
 #3. git commit -m "<comment>"     megcsinalja a gitet 
 #4 git push -u origin main        feltoltod a commitot
 
+#git log    
+
+# git pull origin master
+
+#git checkout -b new-branch
+
 print(hello + szia)
