@@ -1,3 +1,4 @@
-hello = 0
+hello = 10 
+szia = 11
 
-print(hello)
+print(hello + szia)
